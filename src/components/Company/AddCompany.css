@@ -1,0 +1,9 @@
+.form-control{
+    display:flex;       
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:8px ;
+    padding-top:10px   ;
+    width: 100%;
+}

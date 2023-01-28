@@ -1,0 +1,10 @@
+.map-container {
+    height: 500px;
+    width: 50%;
+    margin-top: 3rem;
+    
+    }
+.companyDetails{
+    display: flex;
+    justify-content: space-around;
+}

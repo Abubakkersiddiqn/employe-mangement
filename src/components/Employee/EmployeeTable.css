@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+
+body {
+  font-family: "Quicksand", sans-serif;
+  
+  padding: 0;
+  color: #4d4d4d;
+  width: 100%;
+  
+}
+
+#title {
+  text-align: center;
+}
+
+#employee {
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+
+width: 80%;
+margin-left: 10rem;
+}
+
+#employee td,
+#employee th {
+  border: 1px solid #ddd;
+  padding: 10px;
+  
+}
+
+#employee tr:hover {
+  background-color: #ddd;
+  
+}
+
+#employee th {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(10, 181, 118);
+  color: #555;
+ 
+}
+
+.operation {
+  text-align: center;
+}
+
+.button {
+  border: none;
+  outline: none;
+  font-size: 11px;
+  font-family: "Quicksand", sans-serif;
+  color: rgb(10, 181, 118);
+  padding: 3px 15px;
+  margin: 0.2rem;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid rgb(10, 181, 118);
+  background-color: transparent;
+  
+}
+
+
